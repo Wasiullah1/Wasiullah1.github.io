@@ -1,4 +1,4 @@
-<?php
+
 <html>
   <head>
     
@@ -7,4 +7,4 @@
     <label>HI THIS IS WASI</label>
   </body>
 </html> 
-?>
+
